@@ -1,0 +1,12 @@
+.codeclimate.yml
+.editorconfig
+.eslintignore
+.eslintrc.yml
+.gitattributes
+.gitignore
+.npmignore
+.nvmrc
+.travis.yml
+.vscode
+README.md
+test
