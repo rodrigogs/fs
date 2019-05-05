@@ -8,5 +8,6 @@
 .nvmrc
 .travis.yml
 .vscode
+package-lock.json
 README.md
 test
