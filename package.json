@@ -1,7 +1,7 @@
 {
   "name": "@rodrigogs/fs",
   "description": "Fluid and promisified file system helpers",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "index.js",
   "license": "BSD-3-Clause",
   "repository": {
