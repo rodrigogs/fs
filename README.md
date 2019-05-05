@@ -1,6 +1,8 @@
 # @rodrigogs/fs
 My personal fs wrapper with some advanced features.
 
+[![Build Status](https://travis-ci.org/rodrigogs/fs.svg?branch=master)](https://travis-ci.org/rodrigogs/fs)
+
 ## Install
 ```bash
 $ npm install @rodrigogs/fs --save
