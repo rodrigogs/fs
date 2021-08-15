@@ -1,6 +1,5 @@
 language: node_js
 node_js:
-  - 10.15.0
   - 12.13.0
   - 14.17.5
 install:
