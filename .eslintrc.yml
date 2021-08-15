@@ -4,14 +4,15 @@ plugins:
 rules:
   no-process-env: 2
   no-underscore-dangle: off
+  no-async-promise-executor: off
 globals:
-  process: on
-  describe: on
-  before: on
-  after: on
-  beforeEach: on
-  afterEach: on
-  suite: on
-  test: on
-  it: on
-  expect: on
+  process: readonly
+  describe: readonly
+  before: readonly
+  after: readonly
+  beforeEach: readonly
+  afterEach: readonly
+  suite: readonly
+  test: readonly
+  it: readonly
+  expect: readonly

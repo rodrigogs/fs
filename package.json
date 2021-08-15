@@ -1,7 +1,7 @@
 {
   "name": "@rodrigogs/fs",
   "description": "Fluid and promisified file system helpers",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "main": "index.js",
   "license": "BSD-3-Clause",
   "repository": {
@@ -18,10 +18,10 @@
     "conditional-race": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.9.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "jest": "^23.6.0",
-    "mock-fs": "^4.7.0"
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.0",
+    "jest": "^27.0.6",
+    "mock-fs": "^5.0.0"
   }
 }
