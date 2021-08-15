@@ -1,7 +1,7 @@
 # @rodrigogs/fs
 My personal fs wrapper with some advanced features.
 
-[![Build Status](https://travis-ci.org/rodrigogs/fs.svg?branch=master)](https://travis-ci.org/rodrigogs/fs)
+[![Build Status](https://travis-ci.com/rodrigogs/fs.svg?branch=master)](https://travis-ci.com/rodrigogs/fs)
 
 ## Install
 ```bash
